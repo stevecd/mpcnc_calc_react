@@ -226,7 +226,7 @@ export default class App extends Component {
                   value={this.state.units}
                 >
                   <option value="Inches">Inches</option>
-                  <option value="Centimeters">Centimenters</option>
+                  <option value="Centimeters">Centimeters</option>
                 </Input>
                 <Button className="pull-right" onClick={this.handleResetToDefaults}>Reset To Defaults</Button>
               </fieldset>
