@@ -287,6 +287,9 @@ export default class App extends Component {
             <p>
               It is a simple take on the <a href="http://www.thingiverse.com/thing:948320">Mostly Printed CNC / Multitool Layout Size Calculator</a> by <a href="http://www.thingiverse.com/GeoDave/about">GeoDave</a>.
             </p>
+            <p>
+              repo at <a href="https://github.com/stevecd/mpcnc_calc_react">https://github.com/stevecd/mpcnc_calc_react</a>
+            </p>
         </row>
       </Grid>
     );
