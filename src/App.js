@@ -178,7 +178,7 @@ export default class App extends Component {
     return (
       <Grid>
         <Row>
-          <Col xs={5}>
+          <Col>
             <h1>Simple MPCNC Calc</h1>
           </Col>
         </Row>
