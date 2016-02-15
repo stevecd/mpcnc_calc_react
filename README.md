@@ -13,6 +13,12 @@ npm start
 open http://localhost:3000
 ```
 
+### Building
+```
+npm run deploy
+```
+Build files can be found in the dist directory.
+
 ### Dependencies
 
 * React
