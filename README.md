@@ -1,7 +1,9 @@
 Simple MPCNC Calc
 =====================
 
-Just a simple program I created while going through the React.js Getting Started tutorial.
+Simple React.js app created while following introductory guides.
+
+[Github Hosted Page](http://stevecd.github.io/mpcnc_calc_react/)
 
 ### Usage
 
@@ -10,6 +12,12 @@ npm install
 npm start
 open http://localhost:3000
 ```
+
+### Building
+```
+npm run deploy
+```
+Build files can be found in the dist directory.
 
 ### Dependencies
 
